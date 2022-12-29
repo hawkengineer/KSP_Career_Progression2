@@ -1,0 +1,13 @@
+ContractPack - KerbalProgression2 0.0.2 (Pre-Release)
+	- Added some initial science exploration division contracts
+	- Contains limited contracts
+
+ContractPack - KerbalProgression2 0.0.1 (Pre-Release)
+	- Initial Release
+	- Contains limited contracts
+	- All contracts will fall into the following groups:
+		1) Robotic Exploration Division
+		2) Science Exploration Division
+		3) Kerbal Exploration Division
+		4) Colonization Exploration Division
+		5) Interstellar Exploration Division
