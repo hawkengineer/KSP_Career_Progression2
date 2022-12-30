@@ -1,3 +1,17 @@
+ContractPack - KerbalProgression2 0.0.3 (Pre-Release)
+	- Added additional contracts to the Science Exploration Division
+	- Summary of work to go:
+		- Robotic Exploration Division
+			> Need to test the current contracts
+		- Science Exploration Division
+			> Add planet and planetary moons science collect
+		- Kerbal Exploration Division
+			> Add planet exploration
+		- Colonization Exploration Division
+			> Add all contracts for space stations, planetary bases, etc
+		- Interstellar Exploration Division
+			> Add all contracts for exploring additional solar systems
+
 ContractPack - KerbalProgression2 0.0.2 (Pre-Release)
 	- Added some initial science exploration division contracts
 	- Contains limited contracts
